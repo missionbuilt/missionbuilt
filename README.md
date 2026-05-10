@@ -17,8 +17,8 @@ Or take it offline:
 
 ## Repos here
 
-- **[missionbuilt-book](https://github.com/missionbuilt/missionbuilt-book)** — the book content. Markdown manuscript, chapter sources, edits.
-- **[missionbuilt-sitedesign](https://github.com/missionbuilt/missionbuilt-sitedesign)** — the Astro site that renders it. Forkable. The Iron Log design system documented in the repo.
+- **[missionbuilt-book](https://github.com/missionbuilt/missionbuilt-book)**. The book content. Markdown manuscript, chapter sources, edits.
+- **[missionbuilt-sitedesign](https://github.com/missionbuilt/missionbuilt-sitedesign)**. The Astro site that renders it. Forkable. The Iron Log design system documented in the repo.
 
 ## License
 
@@ -29,7 +29,6 @@ Site code is MIT. Use it, fork it, learn from it.
 ## Contributing
 
 Issues and pull requests welcome on either repo. The book is a living document; the site is a living implementation. Both improve when readers show up.
-
 ---
 
 *Real strength is lifting others.*
